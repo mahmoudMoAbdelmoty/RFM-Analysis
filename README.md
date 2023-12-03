@@ -17,7 +17,7 @@ In the initial data preparation phase, we performed the following tasks:
  - Handling missing values.
  - Data cleaning and formatting.
 
-### Expolaratory Data analysis
+### Expolaratory Data Analysis
 
 
 ### Results
