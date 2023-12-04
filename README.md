@@ -18,7 +18,7 @@ In the initial data preparation phase, we performed the following tasks:
  - Data cleaning and formatting.
 
 ### Expolaratory Data Analysis
-![alt text](https://github.com/mahmoudMoAbdelmoty/RFM-Analysis/blob/main/RFM.jpg)
+![alt text](https://github.com/mahmoudMoAbdelmoty/RFM-Analysis/blob/main/RFM.jpg?raw=true)
 
 
 
